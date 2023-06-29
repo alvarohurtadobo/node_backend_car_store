@@ -1,0 +1,15 @@
+{
+    "person":{
+        "name":"",
+        "last_name":""
+    },
+    "address":{
+        "street":""
+    },
+    "current_work":{},
+    "referees":[
+        {
+            "name": ""
+        }
+    ]
+}
